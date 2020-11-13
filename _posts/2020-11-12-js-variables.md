@@ -26,9 +26,9 @@ varFunc();
 ~~~
 
 
-* let, const: 블록단위 scope
+* let : 블록단위 scope
 
-~~~
+~~~javascript
 function letFunc() {
   let a = 'hello';
   if(true) {
