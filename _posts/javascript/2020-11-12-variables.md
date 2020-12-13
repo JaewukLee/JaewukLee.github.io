@@ -3,7 +3,6 @@ title: "var, const, let"
 layout: post
 categories:
   - javascript
-  - ES6
 tags:
   - variables
 last_modified_at: 2020-11-12T16:40:00
